@@ -6,4 +6,4 @@ while not valid:
             print("bye")
         valid=True
     except ValueError:
-        print("please enter a  v a l i d number")
+        print("please enter a   v a l i d  number")
